@@ -1,0 +1,17 @@
+.contact {
+    
+}
+
+.contact .contact-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.contact .contact-list a {
+    display: inline-block;
+    background-color: black;
+    color:white;
+    padding:var(--space-small);
+    margin-bottom: var(--space-big);
+    text-decoration: none;
+}

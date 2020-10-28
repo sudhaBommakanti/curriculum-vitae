@@ -1,0 +1,18 @@
+.introduction {
+
+}
+
+.introduction .center {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.introduction .purple-line {
+    border: dashed 2px purple;
+
+}
+
+.introduction .avatar {  
+    border-radius: 100px;
+    border: solid 6px black;
+}
